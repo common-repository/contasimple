@@ -1,0 +1,1859 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contasimple for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-01 08:48+0000\n"
+"PO-Revision-Date: 2023-05-17 14:34+0000\n"
+"Last-Translator: Buyer One\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.3"
+
+#: templates/emails/plain/customer-cs-invoice.php:44
+#: templates/emails/plain/customer-cs-invoice.php:46
+msgid " is provided in this email as an attachment in PDF format."
+msgstr "se facilita en este correo como fichero adjunto en formato PDF."
+
+#: admin/class-contasimple-admin.php:3276
+#, php-format
+msgid "%1$d out of %2$d invoices added. Some errors where found."
+msgstr "%1$d de %2$d facturas añadidas. Se encontraron algunos errores."
+
+#: admin/class-contasimple-admin.php:4105
+#, php-format
+msgid "%1$s synchronized from WooCommerce (order #%2$d)"
+msgstr "%1$s sincronizado desde WooCommerce (pedido #%2$d)"
+
+#: includes/class-contasimple-post-types.php:307
+#, php-format
+msgid "%s / Company id"
+msgstr "%s / Id. empresa"
+
+#: admin/class-contasimple-admin.php:390
+#: includes/class-contasimple-wc-integration.php:174
+#: public/class-contasimple-public.php:113
+#, php-format
+msgid "%s / Company identifier"
+msgstr "%s / Identificador de empresa"
+
+#: public/class-contasimple-public.php:188
+#, php-format
+msgid "<b>%s / Company identifier</b> is a required field."
+msgstr "<b>%s / Identificador de empresa</b> es un campo requerido."
+
+#: includes/class-contasimple-wc-integration.php:523
+#: admin/partials/contasimple-wizard-display.php:338
+msgid ""
+"<b>AA</b> and <b>AAAA</b> will be replaced by the current year in 2-digit or "
+"4-digit format, respectively."
+msgstr ""
+"<b>AA</b> y <b>AAAA</b> serán reemplazados por el año actual en formato de 2 "
+"o 4 dígitos, respectivamente."
+
+#: includes/class-contasimple-wc-integration.php:525
+#: admin/partials/contasimple-wizard-display.php:340
+msgid "<b>Any other character</b> will be preserved."
+msgstr "<b>Cualquier otro carácter</b> será preservado."
+
+#: public/class-contasimple-public.php:190
+msgid "<b>Company identifier</b> is a required field."
+msgstr "<b>Identificador de empresa</b> es un campo requerido."
+
+#: admin/class-contasimple-admin.php:2453
+#, php-format
+msgid ""
+"<li> Total taxable: %1$s (%2$s unit price x %3$d units, discounts incl.)</li>"
+msgstr ""
+"<li> Total B.I.: %1$s (%2$s precio unidad x %3$d unidades, descuentos incl.)"
+"</li>"
+
+#: admin/class-contasimple-admin.php:2460
+#, php-format
+msgid "<li> Total: %1$s</li>"
+msgstr "<li> Total: %1$s</li>"
+
+#: admin/class-contasimple-admin.php:3860
+#, php-format
+msgid ""
+"A difference of %1$.2f has been added to concept '%2$s' to balance the total "
+"of the invoice base amount due to rounding differences between Contasimple "
+"and WooCommerce."
+msgstr ""
+"Se ha añadido una diferencia de %1$.2f al concepto '%2$s' para cuadrar el "
+"total de la base de la factura a causa de diferencias de redondeo entre "
+"Contasimple y WooCommerce."
+
+#: admin/class-contasimple-admin.php:3887
+#, php-format
+msgid ""
+"A difference of %1$.2f has been added to concept '%2$s' to balance the total "
+"of the invoice VAT amount due to rounding differences between Contasimple "
+"and WooCommerce."
+msgstr ""
+"Se ha añadido una diferencia de %1$.2f al concepto '%2$s' para cuadrar el "
+"total del IVA de la factura a causa de diferencias de redondeo entre "
+"Contasimple y WooCommerce."
+
+#: admin/partials/contasimple-confirm-manual-sync.php:40
+msgid "Accept"
+msgstr "Aceptar"
+
+#: admin/class-contasimple-admin.php:2793
+msgid "Access denied. Make sure you are still logged into WordPress."
+msgstr "Acceso denegado. Asegúrate de que aún estás conectado a WordPress."
+
+#: admin/partials/contasimple-company-summary.php:29
+msgid "Account Information"
+msgstr "Información de la cuenta"
+
+#: admin/partials/contasimple-company-summary.php:43
+msgid "Account:"
+msgstr "Cuenta:"
+
+#: includes/class-contasimple-post-types.php:333
+msgid "Actions"
+msgstr "Acciones"
+
+#: includes/class-contasimple-post-types.php:99
+msgid "Add New Invoice"
+msgstr "Añadir factura"
+
+#: includes/class-contasimple-wc-integration.php:263
+msgid "Add product SKU to the invoice line concept"
+msgstr "Agregar SKU de producto al concepto de línea de factura"
+
+#: includes/class-contasimple-wp-list-table-wc-orders.php:259
+msgid "All fiscal periods"
+msgstr "Todos los períodos fiscales"
+
+#: includes/class-contasimple-post-types.php:535
+msgid "All Invoice States"
+msgstr "Todas las facturas"
+
+#: admin/partials/contasimple-company-summary.php:136
+msgid ""
+"All your WooCommerce invoice synchronization information will be erased. "
+"Your data in Contasimple will never be erased."
+msgstr ""
+"Se eliminará toda la información de sincronización de facturas. Tus datos en "
+"Contasimple nunca se eliminarán."
+
+#: includes/class-contasimple-post-types.php:325
+msgid "Amount"
+msgstr "Importe"
+
+#: includes/class-contasimple-post-types.php:764
+msgid ""
+"An invoice with the same invoice number and series already exists in "
+"Contasimple"
+msgstr ""
+"Ya existe una factura con el mismo número de factura y serie en Contasimple"
+
+#: includes/class-contasimple-wc-integration.php:825
+#: includes/class-contasimple-wc-integration.php:832
+msgid ""
+"An unknown error occurred trying to fetch your Contasimple account data, "
+"please contact us."
+msgstr ""
+"Ha ocurrido un error al obtener la información de tu cuenta en Contasimple, "
+"por favor contacta con nosotros."
+
+#: admin/class-contasimple-admin.php:311 admin/class-contasimple-admin.php:364
+msgid ""
+"An unknown error occurred. Please try again, and if it persists, please "
+"contact Contasimple."
+msgstr ""
+"Ha ocurrido un error desconocido. Por favor, inténtalo de nuevo y si el "
+"problema persiste, contacta con Contasimple."
+
+#: admin/partials/contasimple-wizard-display.php:72
+msgid "ApiKey"
+msgstr "ApiKey"
+
+#: admin/class-contasimple-admin.php:4115
+msgid "Applied discount coupon"
+msgstr "Aplicado cupón de descuento"
+
+#: admin/partials/contasimple-company-summary.php:135
+msgid "Are you sure you want to unlink your account and delete your data?"
+msgstr "¿Estás seguro que deseas desvincular tu cuenta y eliminar tus datos?"
+
+#: admin/partials/contasimple-company-summary.php:104
+msgid "Are you sure you want to unlink your account?"
+msgstr "¿Estás seguro que deseas desvincular tu cuenta?"
+
+#: admin/partials/contasimple-confirm-manual-sync.php:33
+msgid ""
+"At least one of the selected orders has an order completed date that is in a "
+"different fiscal period than the current one. If you add these orders to the "
+"sync queue, they will be counted in the current fiscal quarter."
+msgstr ""
+"Al menos uno de los pedidos seleccionados tiene una fecha de pedido "
+"completado que se encuentra en un período fiscal diferente al actual. Ten en "
+"cuenta que al añadir estos pedidos a la cola de sincronización, estos se "
+"contabilizarán en el trimestre fiscal actual."
+
+#: includes/class-contasimple-wc-integration.php:215
+msgid "Autonumber formatting for invoices"
+msgstr "Formato de autonumeración para las facturas"
+
+#: includes/class-contasimple-wc-integration.php:222
+msgid "Autonumber formatting for receipts"
+msgstr "Formato de autonumeración para las facturas simplificadas"
+
+#: includes/class-contasimple-wc-integration.php:333
+msgid "Autonumber formatting for refunds"
+msgstr "Formato de autonumeración para las facturas rectificativas negativas"
+
+#: admin/partials/contasimple-wizard-display.php:389
+msgid "Back to previous step"
+msgstr "Volver al paso anterior"
+
+#: includes/class-contasimple-wc-integration.php:125
+#: includes/class-contasimple-wc-integration.php:297
+msgid ""
+"By default, Contasimple will implement a locking mechanism to ensure that "
+"invoices never are created duplicated in Contasimple under rare cases where "
+"an order might get marked as Completed twice in a very short time frame. "
+"This mechanism might cause problems in some conditions. If you are "
+"experiencing freezing of the site and new invoices are not being synced when "
+"an order is completed, you can disable this feature and see if the problem "
+"disappears."
+msgstr ""
+"Por defecto, Contasimple implementa un mecanismo de bloqueo para asegurar "
+"que no se creen facturas duplicadas en Contasimple en casos poco frecuentes, "
+"como por ejemplo que un mismo pedido se marque como Completado dos veces en "
+"un espacio corto de tiempo o desde dos páginas abiertas. Este mecanismo "
+"podría causar problemas en algunos casos. Si estás experimentando bloqueos "
+"en la tienda y las facturas no se están sincronizando al completar los "
+"pedidos, puedes desactivar esta funcionalidad y ver si así el problema se "
+"resuelve."
+
+#: admin/partials/contasimple-confirm-manual-sync.php:45
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/class-contasimple-post-types.php:525
+msgid "Changed"
+msgstr "Cambiada"
+
+#: includes/class-contasimple-post-types.php:758
+msgid "Changed since last sync"
+msgstr "Modificada desde última sinc."
+
+#: includes/class-contasimple-post-types.php:309
+msgid "Company id"
+msgstr "Id. empresa"
+
+#: admin/class-contasimple-admin.php:392
+#: includes/class-contasimple-wc-integration.php:176
+#: public/class-contasimple-public.php:115
+msgid "Company identifier"
+msgstr "Identificador de empresa"
+
+#: includes/class-contasimple-post-types.php:323
+msgid "Company or name"
+msgstr "Razón social"
+
+#: admin/partials/contasimple-company-summary.php:57
+msgid "Company:"
+msgstr "Empresa:"
+
+#: includes/class-contasimple-wc-integration.php:273
+#: admin/partials/contasimple-wizard-display.php:117
+msgid "Completed"
+msgstr "Completado"
+
+#: includes/class-contasimple-wc-integration.php:121
+#: includes/class-contasimple-wc-integration.php:293
+msgid "Concurrency control"
+msgstr "Control de concurrencia"
+
+#: includes/class-contasimple-wc-integration.php:210
+msgid "Configuration"
+msgstr "Configuración"
+
+#: admin/partials/contasimple-wizard-display.php:31
+msgid "Configuration Steps"
+msgstr "Pasos de la configuración"
+
+#: includes/class-contasimple-wc-integration.php:107
+msgid "Configuration Wizard"
+msgstr "Asistente de Configuración"
+
+#: admin/partials/contasimple-confirm-manual-sync.php:29
+msgid "Confirm sync"
+msgstr "Confirmar sincronización"
+
+#: admin/partials/contasimple-wizard-display.php:68
+msgid "Connect to your Contasimple account"
+msgstr "Conecta a tu cuenta de Contasimple"
+
+#: admin/class-contasimple-admin.php:245
+msgid "Connection successful"
+msgstr "Conexión establecida"
+
+#. Name of the plugin
+#: includes/class-contasimple-wc-integration.php:44
+msgid "Contasimple"
+msgstr "Contasimple"
+
+#: includes/class-contasimple-wc-integration.php:774
+msgid "Contasimple company settings updated"
+msgstr ""
+"Se ha actualizado la información sobre la empresa configurada en Contasimple"
+
+#: admin/partials/contasimple-company-summary.php:100
+#: admin/partials/contasimple-company-summary.php:131
+#: admin/partials/contasimple-wizard-display.php:108
+#: admin/partials/contasimple-wizard-display.php:145
+#: admin/partials/contasimple-wizard-display.php:186
+#: admin/partials/contasimple-wizard-display.php:229
+#: admin/partials/contasimple-wizard-display.php:272
+#: admin/partials/contasimple-wizard-display.php:330
+msgid "Contasimple Configuration"
+msgstr "Configuración Contasimple"
+
+#: admin/class-contasimple-admin.php:292
+msgid ""
+"Contasimple does not recognize the SSL certificate from this server. This "
+"might be caused by a bad SSL certificate configuration. Please check your "
+"system security settings and fix this problem before trying to connect again."
+msgstr ""
+"Contasimple no reconoce el certificado SSL de este servidor. Esto puede "
+"deberse a una configuración de certificado SSL incorrecta. Verifica la "
+"configuración de seguridad de tu sistema y soluciona este problema antes de "
+"intentar conectar nuevamente."
+
+#: includes/class-contasimple-wc-integration.php:118
+#: includes/class-contasimple-wc-integration.php:290
+msgid ""
+"Contasimple error logs are needed in order to be able to help you in case "
+"you might have issues with the plugin. It is recommended to keep them "
+"enabled."
+msgstr ""
+"Los logs de Contasimple son necesarios para ayudarte en caso de que estés "
+"teniendo problemas con el módulo. Se recomienda mantenerlos activados."
+
+#: includes/class-contasimple-post-types.php:97
+msgid "Contasimple Invoice"
+msgstr "Factura Contasimple"
+
+#: includes/class-contasimple-post-types.php:96
+msgid "Contasimple Invoices"
+msgstr "Facturas Contasimple"
+
+#: admin/partials/contasimple-wizard-display.php:63
+msgid "Contasimple Login"
+msgstr "Accede a Contasimple"
+
+#: includes/class-contasimple-post-types.php:876
+#: includes/class-contasimple-wc-integration.php:812
+msgid ""
+"Contasimple login failed. Either your company status or access credentials "
+"have changed. Please re-run the configuration wizard to start working with "
+"Contasimple again."
+msgstr ""
+"Acceso a Contasimple fallido. El estado de la empresa o las credenciales de "
+"acceso han cambiado. Por favor, ejecuta de nuevo el asistente de "
+"configuración para empezar a trabajar con Contasimple de nuevo."
+
+#: includes/class-contasimple.php:305
+msgid ""
+"Contasimple plugin needs to be configured before being used. You can do so "
+"by clicking"
+msgstr ""
+"El plugin Contasimple necesita configuración. Puedes configurarlo haciendo "
+"click"
+
+#. Author of the plugin
+msgid "Contasimple S.L. <soporte@contasimple.com>"
+msgstr "Contasimple S.L. <soporte@contasimple.com>"
+
+#: includes/class-contasimple-post-types.php:805
+msgid "Could not connect with Contasimple"
+msgstr "No se ha podido conectar con Contasimple"
+
+#: includes/class-contasimple-wc-integration.php:817
+msgid ""
+"Could not connect with Contasimple. Please make sure your server has "
+"Internet access and try again and if the problem persists, please contact us."
+msgstr ""
+"No se ha podido conectar con Contasimple. Por favor verifica que tu servidor "
+"dispone de conexión a Internet y vuelve a intentarlo. Si el problema "
+"persiste, por favor contacta con nosotros."
+
+#: includes/class-contasimple-post-types.php:787
+msgid ""
+"Could not determine operation type based on tax rate applied and "
+"customer/shop fiscal regions."
+msgstr ""
+"No se ha podido determinar el tipo de operación a partir del tipo de tasa "
+"aplicada y las regiones fiscales del cliente y tienda."
+
+#: admin/class-contasimple-admin.php:297
+msgid ""
+"Could not resolve host. Please check that your server has internet access."
+msgstr ""
+"No se ha podido resolver el host. Por favor verifica que tu servidor tenga "
+"acceso a internet."
+
+#: admin/partials/contasimple-wizard-display.php:159
+msgid "Country:"
+msgstr "País:"
+
+#: includes/class-contasimple-wp-list-table-wc-orders.php:99
+msgid "Create"
+msgstr "Crear"
+
+#: admin/partials/contasimple-wizard-display.php:50
+msgid "Create a Contasimple account"
+msgstr "Crear una cuenta de Contasimple"
+
+#: includes/class-contasimple-wc-integration.php:241
+#: admin/partials/contasimple-wizard-display.php:306
+#: admin/partials/contasimple-wizard-display.php:380
+msgid "Create a new series"
+msgstr "Crear nueva serie"
+
+#: includes/class-contasimple-post-types.php:567
+msgid "Create from previous orders"
+msgstr "Crear desde pedidos anteriores"
+
+#: includes/class-contasimple-wp-list-table-wc-orders.php:43
+msgid "Create invoices"
+msgstr "Crear facturas"
+
+#: includes/class-contasimple-invoice-sync.php:271
+msgid "Credit note"
+msgstr "Factura rectificativa"
+
+#: admin/class-contasimple-admin.php:2908
+#: admin/partials/contasimple-wizard-display.php:290
+msgid "Credit notes"
+msgstr "Facturas rectificativas"
+
+#: admin/partials/contasimple-wizard-display.php:158
+msgid "Currency:"
+msgstr "Moneda:"
+
+#: includes/class-contasimple-wc-integration.php:255
+msgid "Custom text for the NIF field"
+msgstr "Texto personalizado para el campo NIF"
+
+#: admin/class-contasimple-admin.php:4125
+#, php-format
+msgid "Customer name and NIF (if available): %1$s %2$s"
+msgstr "Nombre del cliente y NIF (si disponible): %1$s %2$s"
+
+#: includes/class-contasimple-wc-integration.php:102
+msgid "Default method"
+msgstr "Método por defecto"
+
+#: includes/class-contasimple-wc-integration.php:283
+msgid ""
+"Detect if invoices that do not follow Contasimple fiscal region tax rules "
+"have been synced."
+msgstr ""
+"Detectar si se ha sincronizado facturas que no cumplen con las reglas "
+"fiscales sobre impuestos en Contasimple."
+
+#: includes/class-contasimple-post-types.php:1000
+msgid "Disabled for customers without NIF."
+msgstr "Desactivado para clientes sin NIF."
+
+#: admin/class-contasimple-admin.php:1741
+#: admin/class-contasimple-admin.php:1785
+msgid "Discount coupon"
+msgstr "Cupón de descuento"
+
+#: admin/partials/contasimple-confirm-manual-sync.php:34
+msgid "Do you want to continue?"
+msgstr "¿Deseas continuar?"
+
+#: includes/class-contasimple-wc-integration.php:134
+#: includes/class-contasimple-wc-integration.php:306
+msgid "Download"
+msgstr "Descargar"
+
+#: includes/class-contasimple-post-types.php:1049
+msgid "Download Credit Note PDF"
+msgstr "Descargar nota de pago en PDF"
+
+#: includes/class-contasimple-post-types.php:1052
+msgid "Download Invoice PDF"
+msgstr "Descargar factura en PDF"
+
+#: includes/class-contasimple-wc-integration.php:123
+#: includes/class-contasimple-wc-integration.php:295
+msgid "Enable concurrency protection"
+msgstr "Activar protección contra concurrencia"
+
+#: includes/class-contasimple-wc-integration.php:116
+#: includes/class-contasimple-wc-integration.php:288
+msgid "Enable logging"
+msgstr "Activar recopilación de logs"
+
+#: includes/class-contasimple-wc-integration.php:114
+#: includes/class-contasimple-wc-integration.php:286
+msgid "Enable Logs"
+msgstr "Activar logs"
+
+#: includes/class-contasimple-wc-integration.php:281
+msgid "Enable warnings"
+msgstr "Activar avisos"
+
+#: admin/partials/contasimple-wizard-display.php:88
+msgid "Enter"
+msgstr "Entrar"
+
+#: includes/class-contasimple-post-types.php:526
+msgid "Error"
+msgstr "Error"
+
+#: templates/emails/manager-error-cs-invoice.php:47
+#: templates/emails/plain/manager-error-cs-invoice.php:47
+msgid "Error Message"
+msgstr "Mensaje de error"
+
+#: admin/class-contasimple-admin.php:178
+msgid "Error trying to create a new series. Please contact with Contasimple."
+msgstr ""
+"Error al intentar crear la nueva serie. Por favor, contacta con Contasimple."
+
+#: includes/class-contasimple-invoice-sync.php:509
+msgid "Error trying to save the new state"
+msgstr "Error al intentar guardar el nuevo estado"
+
+#: includes/class-contasimple-wc-integration.php:531
+#: admin/partials/contasimple-wizard-display.php:357
+msgid "Ex: WC-INV-AAAA-#####"
+msgstr "Ej: WC-FACT-AAAA-#####"
+
+#: includes/class-contasimple-wc-integration.php:528
+#: admin/partials/contasimple-wizard-display.php:349
+msgid "Ex: WooCommerce Invoices"
+msgstr "Ej: Facturas WooCommerce"
+
+#: includes/class-contasimple-wc-integration.php:527
+msgid ""
+"Example: WC-INV-AAAA-### will give a sequence of numbers like WC-INV-2022-"
+"001, WC-INV-2022-002 ... and so on."
+msgstr ""
+"Ejemplo: WC-INV-AAAA-### dará lugar a una secuencia de números tipo WC-INV-"
+"2022-001, WC-INV-2022-002... y así sucesivamente."
+
+#: admin/partials/contasimple-wizard-display.php:160
+msgid "Fiscal Region:"
+msgstr "Región fiscal:"
+
+#: admin/class-contasimple-admin.php:2260
+msgid ""
+"For more information, please check the FAQ in the 'How to configure the "
+"Contasimple plugin for WooCommerce' tutorial in the 'Help and tutorials' "
+"section. "
+msgstr ""
+"Para más información, por favor revisa la sección de preguntas frecuentes en "
+"el tutorial 'Como configurar el módulo de Contasimple para WooCommerce' en "
+"la sección de 'Ayuda y tutoriales'."
+
+#: public/class-contasimple-public.php:226
+#| msgid ""
+#| "For Spain, only letters and numbers are allowed, \n"
+#| "\t\t\t\t\t\t\t\t\twithout hyphens, periods or spaces. Correct formats: "
+#| "00000000X / X0000000Y / \n"
+#| "\t\t\t\t\t\t\t\t\tX00000000"
+msgid ""
+"For Spain, only letters and numbers are allowed,\n"
+"\t\t\t\t\t\t\t\t\twithout hyphens, periods or spaces. Correct formats: "
+"00000000X / X0000000Y /\n"
+"\t\t\t\t\t\t\t\t\tX00000000"
+msgstr ""
+"Para España, solo se admiten letras y números, sin guiones, puntos ni "
+"espacios. Formatos correctos: 00000000X / X0000000Y / X00000000"
+
+#: includes/class-contasimple-post-types.php:192
+#: includes/class-contasimple.php:306
+msgid "here"
+msgstr "aquí"
+
+#. Author URI of the plugin
+msgid "http://www.contasimple.com/"
+msgstr "http://www.contasimple.com/"
+
+#. URI of the plugin
+msgid "https://www.contasimple.com/tutorial-como-configurar-plugin-woocommerce"
+msgstr ""
+"https://www.contasimple.com/tutorial-como-configurar-plugin-woocommerce"
+
+#: includes/class-contasimple-wc-integration.php:252
+msgid ""
+"If enabled, customers will have to enter a valid value in this field before "
+"being able to complete an order."
+msgstr ""
+"Si está activado, los clientes tendrán que introducir un valor válido en "
+"este campo antes de poder finalizar el pedido."
+
+#: includes/class-contasimple-wc-integration.php:265
+msgid ""
+"If enabled, products SKUs will be added to Contasimple invoice lines as a "
+"part of the line concept."
+msgstr ""
+"Si está activado, los SKU de productos se agregarán a las líneas de factura "
+"de Contasimple como parte del concepto de línea."
+
+#: admin/partials/contasimple-wizard-display.php:35
+msgid ""
+"If you have a Contasimple account, please follow the linking steps so that "
+"you can start working."
+msgstr ""
+"Si tienes cuenta de Contasimple, por favor, sigue los pasos de vinculación "
+"para poder empezar a trabajar."
+
+#: includes/class-contasimple-wc-integration.php:519
+#: admin/partials/contasimple-wizard-display.php:335
+msgid ""
+"If you need a different series from the listed above, you can also create a "
+"new series right from here and then select it in the dropdown controls above."
+msgstr ""
+"Si necesitas una serie diferente de las enumeradas anteriormente, también "
+"puedes crear una nueva serie desde aquí y luego seleccionarla en el "
+"correspondiente control seleccionable anterior."
+
+#: admin/class-contasimple-admin.php:3163
+msgid "Import previous orders"
+msgstr "Importar pedidos anteriores"
+
+#: admin/partials/contasimple-company-summary.php:77
+#: admin/partials/contasimple-wizard-display.php:163
+#: admin/partials/contasimple-wizard-display.php:249
+msgid "Important:"
+msgstr "Importante:"
+
+#: includes/class-contasimple-post-types.php:417
+msgid "In a previous company"
+msgstr "En una empresa anterior"
+
+#: admin/partials/contasimple-wizard-display.php:192
+msgid ""
+"In order to start working with the Contasimple module, both numbers must "
+"match."
+msgstr ""
+"Para empezar a trabajar con el módulo de Contasimple, ambos números deben "
+"coincidir."
+
+#: admin/class-contasimple-admin.php:287 admin/class-contasimple-admin.php:2655
+msgid "Invalid grant"
+msgstr "Credenciales incorrectas"
+
+#: includes/class-contasimple-post-types.php:799
+msgid "Invalid number of invoice lines"
+msgstr "Número de líneas de factura inválido"
+
+#: admin/class-contasimple-admin.php:1231
+#: admin/class-contasimple-admin.php:1289
+msgid "Invalid WooCommerce invoice ID"
+msgstr "ID de factura WooCommerce Inválido"
+
+#: includes/class-contasimple-invoice-sync.php:273
+msgid "Invoice"
+msgstr "Factura"
+
+#: includes/class-contasimple-wc-invoiced-order-email.php:59
+msgid "Invoice Generated"
+msgstr "Factura generada"
+
+#: includes/class-contasimple-wc-invoiced-order-email.php:62
+msgid ""
+"Invoice Generated notification emails are sent when an invoice is "
+"successfully generated and synced to Contasimple.com"
+msgstr ""
+"Los correos de notificación para facturas generadas se envían cuando se crea "
+"correctamente una factura en Contasimple."
+
+#: includes/class-contasimple-post-types.php:322
+msgid "Invoice Number"
+msgstr "Número de factura"
+
+#: includes/class-contasimple-wc-invoice-sync-error.php:58
+#: includes/class-contasimple-wc-invoice-sync-error.php:64
+#: includes/class-contasimple-wc-invoice-sync-error.php:65
+#: includes/class-contasimple-wc-invoice-sync-error.php:143
+msgid "Invoice Sync Error"
+msgstr "Error de Sincronización de Factura"
+
+#: admin/class-contasimple-admin.php:1424
+#: includes/class-contasimple-post-types.php:885
+#: includes/class-contasimple-wc-invoice-sync-error.php:61
+msgid "Invoice Synchronization failed."
+msgstr "Sincronización de factura fallida."
+
+#: admin/partials/contasimple-wizard-display.php:362
+msgid "Invoice type"
+msgstr "Tipo de factura"
+
+#: includes/class-contasimple-post-types.php:784
+msgid "Invoice was synced but payments are too complex"
+msgstr "La factura ha sido sincronizada pero los pagos son complejos"
+
+#: includes/class-contasimple-post-types.php:781
+msgid "Invoice was synced but payments were not"
+msgstr "La factura ha sido sincronizada pero sus pagos no"
+
+#: includes/class-contasimple-wc-invoiced-order-email.php:166
+msgid "Invoice {cs_invoice_number}"
+msgstr "Factura {cs_invoice_number}"
+
+#: includes/class-contasimple-wc-invoiced-order-email.php:156
+msgid ""
+"Invoice {cs_invoice_number} available for your {site_title} order from "
+"{order_date}"
+msgstr ""
+"Factura {cs_invoice_number} disponible de tu pedido en {site_title} con "
+"fecha {order_date}"
+
+#: admin/class-contasimple-admin.php:2914
+#: includes/class-contasimple-post-types.php:98
+#: includes/class-contasimple-post-types.php:103
+#: admin/partials/contasimple-wizard-display.php:282
+msgid "Invoices"
+msgstr "Facturas"
+
+#: admin/class-contasimple-admin.php:3274
+msgid "Invoices successfully added to the queue."
+msgstr "Facturas añadidas con éxito a la cola."
+
+#: includes/class-contasimple-post-types.php:768
+msgid ""
+"It could be due to rounding differences between Contasimple and WooCommerce "
+"or new features not yet supported by Contasimple, among others. The order "
+"will not be synchronized for security reasons. Please, send the log file of "
+"the attempted synchronization day of this order to the Contasimple support "
+"team."
+msgstr ""
+"Podría ser debido a diferencias de redondeo entre Contasimple y WooCommerce "
+"o nuevas características aún no soportadas por el plugin de Contasimple, "
+"entre otras. El pedido no se sincronizará por seguridad. Por favor, envía el "
+"fichero de log del día de intento de sincronización de éste pedido al equipo "
+"de soporte de Contasimple."
+
+#: includes/class-contasimple-post-types.php:834
+msgid ""
+"It was not possible to configure the customer <b>Multiple customers</b> to "
+"which all sales for which the customer has not specified the VAT number are "
+"attributed. You can configure it manually from the Contasimple website in "
+"the 'Configuration' screen section, going first to 'Taxes', and then "
+"selecting the desired customer in <b>Invoices to unidentified customers</b>"
+msgstr ""
+"No se ha podido configurar el cliente <b>Clientes varios</b> al que se le "
+"imputan todas las ventas para las que el cliente no ha especificado el NIF. "
+"Puedes configurarlo manualmente desde la pantalla de Configuración, en la "
+"sección Impuestos, donde pone <b>Facturas a clientes sin identificar</b>, de "
+"la web de Contasimple"
+
+#: includes/class-contasimple-post-types.php:332
+msgid "Last Sync"
+msgstr "Última sinc."
+
+#: includes/class-contasimple-post-types.php:793
+msgid "Limit of customers reached for the plan"
+msgstr "Límite de clientes del plan alcanzado"
+
+#: includes/class-contasimple-post-types.php:790
+msgid "Limit of invoices reached for the plan"
+msgstr "Límite de facturas del plan alcanzado"
+
+#: admin/partials/contasimple-wizard-display.php:40
+msgid "Link to my Contasimple account"
+msgstr "Vincular mi cuenta de Contasimple"
+
+#: includes/class-contasimple-wc-integration.php:128
+#: includes/class-contasimple-wc-integration.php:131
+#: includes/class-contasimple-wc-integration.php:300
+#: includes/class-contasimple-wc-integration.php:303
+msgid "Log files"
+msgstr "Archivos de log"
+
+#: includes/class-contasimple-wc-integration.php:250
+msgid "Make this field required during the checkout process."
+msgstr "Hacer que este campo sea obligatorio durante el proceso de compra"
+
+#: includes/class-contasimple-post-types.php:858
+msgid "Maximum number of invoice syncing attempts reached."
+msgstr "Número máximo de intentos de sincronización alcanzado."
+
+#: includes/class-contasimple-post-types.php:331
+msgid "Message"
+msgstr "Mensaje"
+
+#: includes/class-contasimple-wc-integration.php:142
+#: includes/class-contasimple-wc-integration.php:314
+msgid "Module version"
+msgstr "Versión del módulo"
+
+#: includes/class-contasimple-wc-integration.php:268
+msgid "Mínimum order status needed to sync invoices"
+msgstr "Mínimo estado del pedido que activa la sincronización de las facturas"
+
+#: includes/class-contasimple-post-types.php:101
+msgid "New Invoice"
+msgstr "Nueva factura"
+
+#: admin/class-contasimple-admin.php:177
+msgid ""
+"New series added successfully. You can now select it from the above "
+"dropwdown controls."
+msgstr ""
+"Nueva serie creada correctamente. Ahora puedes seleccionarla en los "
+"controles desplegables anteriores."
+
+#: admin/class-contasimple-admin.php:747
+#: includes/class-contasimple-post-types.php:879
+msgid "Next invoice number could not be retrieved"
+msgstr "No se ha podido obtener el siguiente número de factura"
+
+#: admin/partials/contasimple-company-summary.php:116
+#: admin/partials/contasimple-company-summary.php:147
+msgid "No"
+msgstr "No"
+
+#: includes/class-contasimple-post-types.php:105
+msgid "No Invoices found"
+msgstr "No se han encontrado facturas"
+
+#: includes/class-contasimple-post-types.php:106
+msgid "No Invoices found in Trash"
+msgstr "No se han encontrado facturas en la papalera"
+
+#: admin/partials/contasimple-wizard-display.php:206
+msgid "No, I want to check both settings manually"
+msgstr "No, deseo revisar ambas configuraciones manualmente"
+
+#: includes/class-contasimple-wc-integration.php:535
+#: admin/partials/contasimple-wizard-display.php:366
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/class-contasimple-post-types.php:704
+msgid "Not marked for syncing"
+msgstr "No marcada para sincronizar"
+
+#: includes/class-contasimple-wc-integration.php:276
+msgid ""
+"Note that regardless of this setting, the 'Completed' status always creates "
+"an invoice if it has not yet been created. If you choose the 'Processing' or "
+"'On-hold' status but an order status is set to 'Completed' without being set "
+"first to processing or on-hold, the invoice will still be created. However, "
+"the reverse is not true."
+msgstr ""
+"Ten en cuenta que en este ajuste NO se selecciona un único estado en el que "
+"debe ponerse en el pedido para que se sincronice, sino el estado que activa "
+"primero la sincronización dentro de la cadena 'En espera > Procesando > "
+"Completado'. Por ejemplo, si se selecciona 'Completado' la factura solamente "
+"se sincronizará cuando se ponga el estado del pedido a 'Completado', sin "
+"embargo si se selecciona 'Procesando' la factura se sincronizaría tanto al "
+"poner el estado del pedido en 'Completado' como en 'Procesando', y si se "
+"selecciona 'En espera' entonces el pedido se sincronizará al establecer "
+"cualquiera de estos tres estados."
+
+#: includes/class-contasimple-wc-integration.php:521
+#: admin/partials/contasimple-wizard-display.php:336
+msgid ""
+"Note: The mask can contain special characters that will be replaced for "
+"their corresponding value during the invoice creation:"
+msgstr ""
+"Nota: La máscara puede contener caracteres especiales que serán reemplazados "
+"por su valor correspondiente durante la creación de la factura:"
+
+#: admin/partials/contasimple-wizard-display.php:354
+msgid "Numbering mask"
+msgstr "Máscara de numeración"
+
+#: admin/partials/contasimple-wizard-display.php:45
+msgid ""
+"On the other hand, if you do not have an account yet, you can create it in "
+"just a few seconds."
+msgstr ""
+"Si por el contrario todavía no tienes cuenta, puedes crearla en tan solo "
+"unos segundos."
+
+#: includes/class-contasimple-wc-integration.php:271
+#: admin/partials/contasimple-wizard-display.php:119
+msgid "On-Hold"
+msgstr "En espera"
+
+#. %1$s: Context for 'here' as in: ...by clicking here
+#: includes/class-contasimple-post-types.php:192
+#, php-format
+msgid ""
+"One or more invoices can not be synchronized because you have reached the "
+"limit of your plan. To continue uploading invoices, you must upgrade to a "
+"higher plan by clicking %1$s and try to sync again."
+msgstr ""
+"Una o más facturas no se pueden sincronizar porque has alcanzado el límite "
+"de tu plan. Para continuar sincronizado las facturas debes actualizar a un "
+"plan superior haciendo clic %1$s y volver a sincronizar."
+
+#: admin/partials/contasimple-company-summary.php:105
+msgid ""
+"Only your access credentials will be deleted, your invoicing information "
+"will be preserved."
+msgstr ""
+"Solo se eliminarán tus credenciales de acceso, tus datos de sincronización "
+"de facturas se mantendrán."
+
+#: admin/class-contasimple-admin.php:4101
+msgid "Order"
+msgstr "Pedido"
+
+#: includes/class-contasimple-invoice-sync.php:283
+#: includes/class-contasimple-post-types.php:321
+msgid "order"
+msgstr "pedido"
+
+#: templates/emails/manager-error-cs-invoice.php:37
+#: templates/emails/plain/manager-error-cs-invoice.php:45
+msgid "Order ID"
+msgstr "ID del pedido"
+
+#: includes/class-contasimple-wc-invoiced-order-email.php:65
+#: includes/class-contasimple-wc-invoiced-order-email.php:66
+msgid "Order Invoice"
+msgstr "Factura pedido"
+
+#: includes/class-contasimple-wc-invoice-sync-error.php:133
+msgid ""
+"Order Invoice {order_number} synchronization error for your {site_title} "
+"order"
+msgstr ""
+"Sincronización de factura del pedido {order_number} para {site_title} ha "
+"fallado"
+
+#: admin/class-contasimple-admin.php:4099
+msgid "Order refund"
+msgstr "Reembolso del pedido"
+
+#: admin/class-contasimple-admin.php:333
+msgid "Order status to sync saved successfully"
+msgstr ""
+"Estado del pedido en el que sincronizar la factura guardado correctamente"
+
+#: admin/class-contasimple-admin.php:2513
+msgid "Order total"
+msgstr "Total del pedido"
+
+#: admin/class-contasimple-admin.php:3118
+msgid "Orders per page"
+msgstr "Pedidos por página"
+
+#: admin/class-contasimple-admin.php:2020
+msgid "Other"
+msgstr "Otro"
+
+#: includes/class-contasimple-post-types.php:523
+msgid "Pending"
+msgstr "Pendiente"
+
+#: includes/class-contasimple-post-types.php:377
+msgid "Pending assignment"
+msgstr "Pendiente de asignación"
+
+#: includes/class-contasimple-post-types.php:707
+msgid "Pending synchronization"
+msgstr "Pendiente de sincronización"
+
+#: includes/class-contasimple-wc-integration.php:520
+msgid ""
+"Please enter a <b>name</b> for the series, the <b>numbering mask</b> that "
+"will be used to suggest the next invoice number, and then select to which <b>"
+"type of document</b> will apply."
+msgstr ""
+"Introduce un <b>nombre</b> para la serie, la <b>máscara de numeración</b> "
+"que se utilizará para sugerir el siguiente número de factura y luego "
+"selecciona a qué <b>tipo de documento</b > se aplicará."
+
+#: admin/partials/contasimple-wizard-display.php:277
+msgid ""
+"Please select which numbering series from Contasimple you want to use for "
+"every type of invoice:"
+msgstr ""
+"Por favor, selecciona cual de las series de numeración de Contasimple "
+"quieres usar para cada tipo de factura:"
+
+#: includes/class-contasimple-wc-integration.php:404
+msgid ""
+"Please select which numbering series you wish to use for the invoices from "
+"the corresponding dropdown list."
+msgstr ""
+"Por favor, selecciona del listado desplegable correspondiente qué serie de "
+"numeración deseas utilizar para las facturas."
+
+#: includes/class-contasimple-wc-integration.php:397
+msgid ""
+"Please select which numbering series you wish to use for the receipts from "
+"the corresponding dropdown list."
+msgstr ""
+"Por favor, selecciona del listado desplegable correspondiente qué serie de "
+"numeración deseas utilizar para las facturas simplificadas."
+
+#: includes/class-contasimple-wc-integration.php:400
+msgid ""
+"Please select which numbering series you wish to use for the rectifying "
+"invoices from the corresponding dropdown list."
+msgstr ""
+"Por favor, selecciona del listado desplegable correspondiente qué serie de "
+"numeración deseas utilizar para las facturas rectificativas."
+
+#: admin/class-contasimple-admin.php:276
+msgid "Please, enter a valid API Key"
+msgstr "Por favor, introduce una clave de API válida"
+
+#: admin/partials/contasimple-company-summary.php:77
+#: admin/partials/contasimple-wizard-display.php:163
+msgid ""
+"Please, make sure that the same currency is selected in both WooCommerce and "
+"Contasimple in order to avoid any conversion issues during synchronization."
+msgstr ""
+"Por favor, asegúrate de que ambas monedas coinciden en WooCommerce y "
+"Contasimple para evitar errores de conversión durante la sincronización."
+
+#: admin/partials/contasimple-wizard-display.php:150
+msgid "Please, select the company you want to work with:"
+msgstr "Por favor, selecciona la empresa con la que quieres trabajar:"
+
+#: admin/class-contasimple-admin.php:2687
+#: admin/class-contasimple-admin.php:2736
+msgid "Please, wait..."
+msgstr "Por favor, espera..."
+
+#: includes/class-contasimple-wc-integration.php:540
+#: admin/partials/contasimple-wizard-display.php:373
+msgid "Preview"
+msgstr "Vista previa"
+
+#: includes/class-contasimple-wc-integration.php:272
+#: admin/partials/contasimple-wizard-display.php:118
+msgid "Processing"
+msgstr "Procesando"
+
+#: admin/class-contasimple-admin.php:2911
+#: admin/partials/contasimple-wizard-display.php:298
+msgid "Receipts"
+msgstr "Facturas simplificadas"
+
+#: includes/class-contasimple-wc-integration.php:536
+#: admin/partials/contasimple-wizard-display.php:367
+msgid "Rectifying"
+msgstr "Rectificativa"
+
+#: admin/class-contasimple-admin.php:2004
+msgid "Refund reason: "
+msgstr "Motivo del reembolso:"
+
+#: admin/class-contasimple-admin.php:2072
+msgid "Remaining amount refunded"
+msgstr "Cantidad devuelta restante"
+
+#: includes/class-contasimple-post-types.php:1020
+msgid "Remove from sync queue"
+msgstr "Quitar de la cola de sincronización"
+
+#: includes/class-contasimple-post-types.php:761
+msgid "Removed from sync"
+msgstr "Quitada de sincronización"
+
+#: admin/class-contasimple-admin.php:175
+msgid "Removing..."
+msgstr "Eliminando..."
+
+#: includes/class-contasimple-wc-integration.php:248
+msgid "required"
+msgstr "obligatorio"
+
+#: includes/class-contasimple-post-types.php:1079
+msgid "Resend invoice PDF to customer via email"
+msgstr "Reenviar PDF factura al cliente por email"
+
+#: admin/class-contasimple-admin.php:3763
+msgid "Rounding adjustment for total price without VAT"
+msgstr "Ajustes de redondeo del importe total sin IVA"
+
+#: admin/class-contasimple-admin.php:3780
+msgid "Rounding adjustment for VAT amount"
+msgstr "Ajustes de redondeo del importe del IVA"
+
+#: admin/partials/contasimple-wizard-display.php:125
+#: admin/partials/contasimple-wizard-display.php:252
+#: admin/partials/contasimple-wizard-display.php:310
+msgid "Save selection"
+msgstr "Guardar selección"
+
+#: includes/class-contasimple-post-types.php:104
+msgid "Search Invoice"
+msgstr "Buscar factura"
+
+#: includes/class-contasimple-wc-integration.php:179
+msgid "Select an option"
+msgstr "Selecciona una opción"
+
+#: admin/partials/contasimple-wizard-display.php:166
+msgid "Select company"
+msgstr "Selecciona una empresa"
+
+#: includes/class-contasimple-wc-integration.php:139
+#: includes/class-contasimple-wc-integration.php:311
+msgid ""
+"Select the date for which you want to download the log file and click the "
+"'Download' button. This file can be sent to Contasimple's customer service "
+"to help you trooubleshoot any issues with the module ."
+msgstr ""
+"Selecciona la fecha para la que deseas descargar el fichero de log y haz "
+"clic en el botón 'Descargar'. Este fichero puede ser enviado al servicio de "
+"asistencia de Contasimple para ayudarte a resolver incidencias con el módulo."
+
+#: includes/class-contasimple-wc-integration.php:219
+msgid ""
+"Select which defined series in Contasimple you want to use for the numbering "
+"sequence of your invoices."
+msgstr ""
+"Selecciona qué serie de numeración definida en Contasimple deseas usar para "
+"la secuencia de numeración de las facturas."
+
+#: includes/class-contasimple-wc-integration.php:226
+msgid ""
+"Select which defined series in Contasimple you want to use for the numbering "
+"sequence of your receipts."
+msgstr ""
+"Selecciona qué serie de numeración definida en Contasimple deseas usar para "
+"la secuencia de numeración de las facturas simplificadas."
+
+#: includes/class-contasimple-wc-integration.php:337
+msgid ""
+"Select which defined series in Contasimple you want to use for the numbering "
+"sequence of your refunds."
+msgstr ""
+"Selecciona qué serie de numeración definida en Contasimple deseas usar para "
+"la secuencia de numeración de las facturas rectificativas."
+
+#: includes/class-contasimple-wc-integration.php:276
+#: admin/partials/contasimple-wizard-display.php:113
+msgid ""
+"Select which status triggers first the order invoice generation. The default "
+"is to sync invoices when orders reach the 'Completed' status. You can choose "
+"to sync invoices when the order status is set to 'Processing' or 'On-hold' "
+"instead."
+msgstr ""
+"Selecciona cuál es el estado que desencadena primero la generación de la "
+"factura del pedido. Por defecto las facturas se sincronizan cuando los "
+"pedidos alcanzan el estado 'Completado'. En su lugar, puedes optar por "
+"sincronizar las facturas cuando el estado del pedido se establece en "
+"'Procesando' o 'En espera'."
+
+#: includes/class-contasimple-post-types.php:1075
+msgid "Send invoice PDF to customer via email"
+msgstr "Enviar PDF factura al cliente por email"
+
+#: admin/partials/contasimple-wizard-display.php:346
+msgid "Series name"
+msgstr "Nombre de la serie"
+
+#: admin/class-contasimple-admin.php:1762
+#: admin/class-contasimple-admin.php:2128
+#: admin/class-contasimple-admin.php:2143
+msgid "Shipping"
+msgstr "Envío"
+
+#: includes/class-contasimple-wc-integration.php:279
+msgid "Show warnings"
+msgstr "Mostrar avisos"
+
+#: admin/partials/contasimple-wizard-display.php:234
+msgid ""
+"Similar to Woocommerce, Contasimple allows the invoices to be marked as paid,"
+" and at that point, the user can also specify the payment method used. In "
+"this screen you need to specify, for each Woocommerce payment method, its "
+"equivalent one in Contasimple, so that when syncing the Woocommerce orders, "
+"those get marked as paid with the right payment method."
+msgstr ""
+"Igual que sucede en Woocommerce, Contasimple permite marcar las facturas "
+"como pagadas, y en ese momento, el usuario puede especificar el método de "
+"pago utilizado. En esta pantalla tienes que especificar, para cada método de "
+"pago de Woocommerce, su equivalente en Contasimple, para que cuando se "
+"sincronicen los pedidos de Woocommerce, estos se marquen como pagados con el "
+"método de pago adecuado."
+
+#: includes/class-contasimple-post-types.php:330
+msgid "State"
+msgstr "Estado"
+
+#: admin/class-contasimple-admin.php:2281
+#, php-format
+msgid "Sum of the products with %1$d%% %2$s"
+msgstr "Suma de los productos con %1$d%% %2$s"
+
+#: includes/class-contasimple-wc-integration.php:200
+#: templates/emails/manager-error-cs-invoice.php:34
+#: templates/emails/plain/manager-error-cs-invoice.php:43
+msgid "Summary"
+msgstr "Resumen"
+
+#: includes/class-contasimple-post-types.php:1010
+msgid "Sync Invoice"
+msgstr "Sincronizar factura"
+
+#: includes/class-contasimple-post-types.php:700
+msgid "Sync OK"
+msgstr "Sincronizada OK"
+
+#: includes/class-contasimple-post-types.php:714
+msgid "Sync OK, but invalid VAT number"
+msgstr "Sincronizada OK, pero el número de IVA es inválido"
+
+#: includes/class-contasimple-post-types.php:727
+msgid "Sync OK, but missing"
+msgstr "Sincronizada OK, pero falta"
+
+#: includes/class-contasimple-post-types.php:739
+msgid "Sync OK, with minor rounding adjustments"
+msgstr "Sincronizada OK, con ajustes de redondeo"
+
+#: includes/class-contasimple-post-types.php:749
+msgid "Sync OK, with warnings"
+msgstr "Sincronizada OK"
+
+#: includes/class-contasimple-post-types.php:562
+msgid "Sync pending invoices now"
+msgstr "Sincronizar facturas pendientes ahora"
+
+#: includes/class-contasimple-post-types.php:524
+msgid "Synced"
+msgstr "Sincronizada"
+
+#: templates/emails/manager-error-cs-invoice.php:42
+#: templates/emails/plain/manager-error-cs-invoice.php:46
+msgid "Synchronization Attempt Date"
+msgstr "Fecha de intento de sincronización"
+
+#: includes/class-contasimple-post-types.php:207
+msgid ""
+"Synchronization is up to date. All pending invoices were synced but some "
+"require your attention. Please check the warning messages."
+msgstr ""
+"La sincronización está al día. Todas las facturas pendientes fueron "
+"sincronizadas pero algunas requieren de tu atención. Por favor revisa los "
+"mensajes de aviso."
+
+#: includes/class-contasimple-post-types.php:187
+msgid "Synchronization is up to date. Everything is ok."
+msgstr "La sincronización está al día. Todo está ok."
+
+#: admin/class-contasimple-admin.php:174
+msgid "Syncing..."
+msgstr "Sincronizando..."
+
+#: includes/class-contasimple-wc-integration.php:524
+#: admin/partials/contasimple-wizard-display.php:339
+msgid ""
+"The <b>#</b> symbol will be replaced by an incremental number. The number "
+"will have as many digits as the number of # symbols used."
+msgstr ""
+"El símbolo <b>#</b> será reemplazado por un número incremental. El número "
+"tendrá tantos dígitos como el número de símbolos # utilizados."
+
+#: includes/class-contasimple-post-types.php:808
+msgid ""
+"The <b>Multiple customers</b> to which all sales for which the customer has "
+"not specified the VAT number are attributed is not configured in Contasimple."
+" You can configure it manually from the Contasimple website in the "
+"'Configuration' screen section, going first to 'Taxes', and then selecting "
+"the desired customer in <b>Invoices to unidentified customers</b>"
+msgstr ""
+"El cliente <b>Clientes varios</b> al que se le imputan todas las ventas para "
+"las que el cliente no ha especificado el NIF no se encuentra configurado en "
+"Contasimple. Puedes configurarlo manualmente desde la pantalla de "
+"Configuración, en la sección Impuestos, donde pone <b>Facturas a clientes "
+"sin identificar</b>, de la web de Contasimple"
+
+#: admin/class-contasimple-admin.php:2259
+msgid ""
+"The concepts of the invoice do not reflect the individual products of the "
+"order because the taxable amount charged for one or more products (the unit "
+"cost excluding taxes and having applied any discount) is not representable "
+"with two decimals, which is why the order had to be synchronized by grouping "
+"the totals by type of tax. If you want your eCommerce order invoices to be "
+"synchronized by keeping the original product lines, the price assigned to "
+"the products from your shop must be an amount that, after deducting taxes "
+"and discounts, can be represented exactly with two decimal digits and "
+"without the need to round off the amount."
+msgstr ""
+"Los conceptos de la factura no reflejan los productos individuales de la "
+"venta porque la base imponible cobrada de uno o más productos (es decir, el "
+"coste unitario sin incluir impuestos y habiendo aplicado cualquier descuento)"
+"  no es representable con dos decimales, motivo por el cual la venta se ha "
+"tenido que sincronizar agrupando los totales por tipo de impuesto. Si deseas "
+"que las facturas de las ventas de tu eCommerce se sincronicen desglosando "
+"los productos comprados, el precio que le asignes al producto desde la "
+"tienda debe ser un importe que después de quitarle las tasas y los "
+"descuentos sea representable exactamente con dos decimales y sin necesidad "
+"de redondear el importe."
+
+#: templates/emails/customer-cs-invoice.php:51
+#, php-format
+msgid ""
+"The credit note for your order #%s is provided in this email as an "
+"attachment file in PDF format."
+msgstr ""
+"La factura rectificativa negativa para el pedido #%s se facilita en este "
+"correo como fichero adjunto en formato PDF."
+
+#: admin/class-contasimple-admin.php:1971
+#: includes/class-contasimple-post-types.php:837
+msgid "The customer could not be created"
+msgstr "No se pudo crear el cliente"
+
+#: admin/class-contasimple-admin.php:1893
+#: includes/class-contasimple-post-types.php:882
+msgid "The customer could not be retrieved"
+msgstr "Ha ocurrido un error al intentar obtener el cliente de la factura"
+
+#: includes/class-contasimple-post-types.php:715
+msgid ""
+"The customer has provided a VAT number. However, the VIES services could not "
+"validate the number. Therefore, the invoice has been synced marked as a "
+"national operation. In some cases, the VAT could be valid but missing from "
+"the EU database and give a false negative. If you are sure this is the case, "
+"please log into Contasimple and change the operation type to intra-community "
+"manually. You can also configure the WooCommerce European VAT number module "
+"to block registration with invalid numbers, if you suspect this is the case."
+msgstr ""
+"El cliente ha proporcionado un número de IVA. Sin embargo, el servicio VIES "
+"no ha podido validar el número. Por este motivo, la factura se ha "
+"sincronizado marcada como una operación nacional. En algunos casos el número "
+"de IVA podría ser válido pero no constar en la base de datos de la UE, dando "
+"un falso negativo. Si estás seguro de que este es el caso, por favor, inicia "
+"sesión en Contasimple y cambia el tipo de operación a intracomunitaria "
+"manualmente. También puedes configurar el módulo de número de IVA Europeo de "
+"PrestaShop para bloquear el registro con números no válidos, si sospechas "
+"que este es el caso.'"
+
+#: includes/class-contasimple-post-types.php:852
+msgid ""
+"The discrepancy between line prices before and after rounding is too high."
+msgstr ""
+"La diferencia de precio entre líneas antes y después del redondeo es "
+"demasiado alta."
+
+#: public/class-contasimple-public.php:221
+msgid ""
+"The format of the company identifier number entered is not correct for the "
+"selected billing country."
+msgstr ""
+"El formato del identificador de la empresa introducido no es correcto para "
+"el país seleccionado en la dirección de facturación."
+
+#: includes/class-contasimple-post-types.php:778
+msgid "The format of the NIF entered is not correct for the user's country."
+msgstr ""
+"El formato del NIF introducido no es correcto para el país del usuario."
+
+#: includes/class-contasimple-post-types.php:775
+msgid ""
+"The invoice applies a VAT rate that does not exist in the fiscal region "
+"configured in Contasimple"
+msgstr ""
+"La factura tiene un tipo de IVA no existente en la región fiscal configurada "
+"en Contasimple"
+
+#: includes/class-contasimple-post-types.php:870
+msgid ""
+"The invoice cannot be synced because it applies IRPF tax to only certain "
+"items but Contasimple supports that tax only when applied to the whole "
+"invoice. It needs to be synced manually, split in two invoices, one with the "
+"items with IRPF and a second one with the items without IRPF."
+msgstr ""
+"La factura no se puede sincronizar porque aplica IRPF solo a ciertos "
+"artículos, pero Contasimple solo admite este impuesto cuando se aplica a "
+"toda la factura. Deberá sincronizarse manualmente dividiéndose en dos "
+"facturas, una con los artículos con IRPF y otra con los artículos sin IRPF."
+
+#: includes/class-contasimple-post-types.php:828
+#, php-format
+msgid ""
+"The invoice cannot be synchronized because the order currency symbol (%s) "
+"and the one configured in Contasimple (%s) do not match. NOTE: If that is "
+"correct, you will have to synchronize the invoice manually by converting the "
+"amounts to Contasimple's currency, but if it is a Contasimple configuration "
+"error, remember to go to the plugin settings and click on \"Update account "
+"settings\" to refresh them before trying to sync the invoice again."
+msgstr ""
+"No se puede sincronizar la factura porque el símbolo de la moneda del pedido "
+"(%s) y el configurado en Contasimple (%s) no coinciden. NOTA: Si eso es "
+"correcto, deberás sincronizar la factura manualmente convirtiendo los "
+"importes a la moneda de Contasimple, pero si trata de un error de "
+"configuración de Contasimple, recuerda ir a los ajustes del plugin y clicar "
+"en \"Actualizar ajustes de la cuenta\" para recargarlos, antes de volver a "
+"sincronizar la factura."
+
+#: includes/class-contasimple-post-types.php:840
+msgid ""
+"The invoice could not be inserted because the period to which it belongs is "
+"closed"
+msgstr ""
+"No se ha podido insertar la factura porque el periodo al que pertenece está "
+"cerrado"
+
+#: includes/class-contasimple-post-types.php:855
+msgid ""
+"The invoice could not be synchronized because some of the order amounts "
+"cannot be rounded to two decimal places without causing a variation in the "
+"total amount of the invoice due to the rounding of the amount and "
+"Contasimple has not been able to automatically readjust the amounts so that "
+"the invoice has the exact same final amount as the original order. You will "
+"have to create this invoice manually in Contasimple and adjust the amounts "
+"so that the final total matches the WooCommerce order."
+msgstr ""
+"La factura no ha podido ser sincronizada debido a que alguno de los importes "
+"del pedido no se pueden redondear a dos decimales sin causar una variación "
+"del importe total de la factura debido al redondeo del importe y Contasimple "
+"no ha podido reajustar automáticamente los importes para que la factura "
+"tenga el mismo importe final exacto que el pedido original. Deberás crear "
+"esta factura manualmente en Contasimple y ajustar los importes de manera que "
+"el total final cuadre con el pedido de WooCommerce."
+
+#: includes/class-contasimple-post-types.php:888
+msgid ""
+"The invoice could not be synchronized because there is no numbering series "
+"configured or either the selected series has been deleted or disabled from "
+"Contasimple. Please go to the settings page and choose a numbering series."
+msgstr ""
+"La factura no ha podido ser sincronizada porque no hay una serie de "
+"numeración configurada o bien la serie seleccionada ha sido borrada o "
+"desactivada desde Contasimple. Por favor ve a la página de ajustes y "
+"selecciona una nueva serie de numeración."
+
+#: includes/class-contasimple-post-types.php:767
+msgid ""
+"The invoice could not be synchronized due to problems with the validation of "
+"the amounts"
+msgstr ""
+"No se ha podido sincronizar la factura por problemas con la validación de "
+"los importes"
+
+#: includes/class-contasimple-post-types.php:843
+msgid ""
+"The invoice could not be updated because the period to which it belongs is "
+"closed"
+msgstr ""
+"No se ha podido actualizar la factura porque el periodo al que pertenece "
+"está cerrado"
+
+#: includes/class-contasimple-post-types.php:846
+msgid "The invoice could not be updated because the selected period is closed"
+msgstr ""
+"No se ha podido actualizar la factura porque el periodo seleccionado está "
+"cerrado"
+
+#: templates/emails/customer-cs-invoice.php:49
+#, php-format
+msgid ""
+"The invoice for your order #%s is provided in this email as an attachment "
+"file in PDF format."
+msgstr ""
+"La factura para el pedido #%s se facilita en este correo como fichero "
+"adjunto en formato PDF."
+
+#: includes/class-contasimple-post-types.php:750
+msgid ""
+"The invoice has been synced with the total base amount and total amount "
+"after taxes as exactly reported by WooCommerce, however, Contasimple "
+"detected that when rounding all amounts to two decimals places (like most "
+"accounting systems work) the total amount should probably be one cent higher "
+"that the one reported by WooCommerce. This might happen when your products "
+"have more than two decimal digits in the base price per unit. Note that even "
+"if WooCommerce always displays product prices with two decimals, they might "
+"have more than two decimals internally in the database, and this impacts the "
+"calculations. Please try to configure WooCommerce to make all prices "
+"representable with two decimal places if you do not want to potentially be "
+"accounting for one less cent in your taxes."
+msgstr ""
+"La factura se ha sincronizado con ambos importes totales (antes y después de "
+"impuestos) tal y como los ha calculado WooCommerce. Sin embargo, Contasimple "
+"ha detectado que cuando se redondean todas las cantidades a dos decimales "
+"(tal y como funcionan la mayoría de sistemas contables) el importe total del "
+"pedido probablemente debería ser un céntimo mayor al que ha calculado "
+"WooCommerce. Esto puede suceder cuando los productos tienen más de dos "
+"decimales en el precio unitario. Ten en cuenta que aunque WooCommerce "
+"siempre muestra los importes redondeados a dos cifras por pantalla, puede "
+"que internamente se guarden con más decimales y esto tiene un impacto en "
+"nuestros cálculos. Intenta configurar WooCommerce para que todos los precios "
+"de los productos sean representables con dos decimales para evitar problemas "
+"de rendondeo que puedan causar que al final estés computando un céntimo de "
+"diferencia en impuestos a causa de ello."
+
+#: templates/emails/manager-error-cs-invoice.php:32
+#: templates/emails/plain/manager-error-cs-invoice.php:41
+#, php-format
+msgid ""
+"The invoice sync for your order #%s could not be synchronized. Please check "
+"the order and fix it so it can be synchronized correctly"
+msgstr ""
+"La sincronización de la factura correspondiente al pedido #%s ha fallado. "
+"Por favor, revisa el pedido y modifícalo para que se pueda sincronizar "
+"correctamente."
+
+#: includes/class-contasimple-post-types.php:873
+msgid ""
+"The order contains taxes that have been deleted and Contasimple could not "
+"determine the exact tax rates used. The invoice cannot be synced."
+msgstr ""
+"El pedido contiene impuestos que se han eliminado y Contasimple no pudo "
+"determinar las tasas impositivas exactas utilizadas. La factura no se puede "
+"sincronizar."
+
+#: includes/class-contasimple-post-types.php:867
+msgid ""
+"The order could not be synced because it contains products with several "
+"different VAT rates and a fixed amount discount coupon has been applied to "
+"it. The program has not been able to reconstruct which part of the coupon "
+"applies to each product and cannot synchronize it, so it will have to be "
+"accounted for manually from the Contasimple application. To avoid this "
+"problem in the future, we recommend using percentage discount coupons, "
+"rather than fixed amount discounts."
+msgstr ""
+"El pedido no se ha podido sincronizar porque contiene productos con varios "
+"tipos de IVA diferentes y se le ha aplicado un cupón de descuento de importe "
+"fijo. El programa no ha sido capaz de reconstruir qué parte del cupón aplica "
+"a cada producto y no lo puede sincronizar, por lo que se tendrá que "
+"contabilizar manualmente desde la aplicación de Contasimple. Para evitar "
+"este problema en el futuro, recomendamos usar cupones de porcentaje de "
+"descuento, en lugar de descuentos de importe fijo."
+
+#: includes/class-contasimple-post-types.php:802
+msgid ""
+"The order could not be synced because it could not be loaded (Have you "
+"deleted it? Is there any technical problem?)"
+msgstr ""
+"No se ha podido sincronizar el pedido porque no se ha podido cargar (¿Lo has "
+"eliminado? ¿Existe algún problema técnico?)"
+
+#: includes/class-contasimple-post-types.php:864
+msgid ""
+"The order has more than one tax. Contasimple only supports one tax per line. "
+"The invoice cannot be synced."
+msgstr ""
+"El pedido tiene mas de una tasa de impuesto. Contasimple solo soporta una "
+"tasa por línea. La factura no se puede sincronizar."
+
+#: includes/class-contasimple-post-types.php:849
+msgid ""
+"The payment could not be completed because the period to which the invoice "
+"belongs is closed"
+msgstr ""
+"No se ha podido completar el pago porque el periodo al que pertenece la "
+"factura está cerrado"
+
+#: includes/class-contasimple.php:325
+msgid ""
+"The PHP PECL Intl extension is not enable in this system. Contasimple uses "
+"this extension to format the invoice amounts according to the format "
+"configured in Contasimple. We recommend that you install this extension on "
+"your server. Otherwise, it is possible that some invoices that group "
+"concepts by tax rate do not show all the amounts formatted according to your "
+"settings in Contasimple."
+msgstr ""
+"La extensión de PHP PECL Intl no se encuentra activada en el sistema. "
+"Contasimple usa esta extensión para formatear los importes de las factura "
+"según el formato configurado en Contasimple. Te recomendamos que instales "
+"esta extensión en tu servidor. En caso contrario, es posible que algunas "
+"facturas que se agrupan por conceptos no muestren todos los importes "
+"formateados de acuerdo con tus ajustes en Contasimple."
+
+#: includes/class-contasimple-wc-integration.php:139
+#: includes/class-contasimple-wc-integration.php:311
+msgid ""
+"Then, please contact us first by filling the form in the 'contact area' in "
+"our website and we will provide you with further instructions about how to "
+"send us the logs."
+msgstr ""
+"Por favor, contacta con nosotros primero rellenando el formulario 'área de "
+"contacto' en nuestra web y te proporcionaremos instrucciones acerca de cómo "
+"hacernos llegar los logs."
+
+#. %1$d: a number, like 5
+#: includes/class-contasimple-post-types.php:204
+#, php-format
+msgid "There are %1$d invoices pending to be synced."
+msgstr "Hay %1$d facturas pendientes de sincronización."
+
+#. %1$d: a number, like 5
+#: includes/class-contasimple-post-types.php:200
+#, php-format
+msgid "There are %1$d modified invoices that need to be synced again."
+msgstr "Hay %1$d factura modificada que debe ser sincronizada de nuevo."
+
+#. %1$d: a number, like 5
+#: includes/class-contasimple-post-types.php:196
+#, php-format
+msgid "There are %1$d synchronization errors. Please check the error messages."
+msgstr ""
+"Hay %1$d errores de sincronización. Por favor, comprueba los mensajes de "
+"error."
+
+#: admin/class-contasimple-admin.php:176
+msgid "There are no registered logs for the selected day."
+msgstr "No hay logs registrados para el día seleccionado."
+
+#: includes/class-contasimple-post-types.php:772
+msgid "There is an error with one or more invoice fields"
+msgstr "Hay un error con uno o más de los campos de la factura"
+
+#: includes/class-contasimple-post-types.php:740
+msgid ""
+"There was a slight difference in total amounts due to rounding differences "
+"between Contasimple and WooCommerce. To make both amounts match, a 1 cent "
+"difference has been added to the higher price concept."
+msgstr ""
+"Existe una ligera diferencia en las cantidades totales calculadas debido a "
+"diferencias de redondeo entre Contasimple y WooCommerce. Para hacer "
+"coincidir ambas cantidades, se ha agregado una diferencia de 1 céntimo al "
+"concepto de precio más alto."
+
+#: includes/class-contasimple-wc-invoice-sync-error.php:211
+#: includes/class-contasimple-wc-invoiced-order-email.php:245
+#, php-format
+msgid ""
+"This controls the email subject line. Leave blank to use the default subject:"
+" <code>%s</code>."
+msgstr ""
+"Este campo controla la línea de asunto del correo. Deja en blanco para usar "
+"el asunto por defecto: <code>%s</code>."
+
+#: includes/class-contasimple-wc-invoice-sync-error.php:218
+#: includes/class-contasimple-wc-invoiced-order-email.php:252
+#, php-format
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Este campo controla la cabecera principal del correo de notificación. Deja "
+"en blanco para usar la cabecera por defecto: <code>%s</code>."
+
+#: includes/class-contasimple-post-types.php:108
+msgid "This is where you can find all invoices synced to contasimple."
+msgstr ""
+"Aquí puedes encontrar todas las facturas sincronizadas hacia Contasimple."
+
+#: includes/class-contasimple-post-types.php:999
+msgid "This option is only available for the currently configured company."
+msgstr "Esta opción solo está activa para la empresa configurada actualmente."
+
+#. Description of the plugin
+msgid ""
+"This plugin allows you to generate invoices for all your WooCommerce orders."
+msgstr ""
+"Este plugin te permite generar facturas para todos tus pedidos de "
+"WooCommerce."
+
+#: includes/class-contasimple-post-types.php:1083
+msgid "Try sending again invoice PDF to customer via email"
+msgstr "Reintentar enviar PDF factura al cliente por email"
+
+#: includes/class-contasimple-post-types.php:894
+msgid "Unknown error"
+msgstr "Error desconocido"
+
+#: admin/partials/contasimple-company-summary.php:82
+msgid "Unlink account"
+msgstr "Desvincular cuenta"
+
+#: admin/partials/contasimple-company-summary.php:86
+msgid "Unlink account and delete data"
+msgstr "Desvincular cuenta y eliminar datos"
+
+#: includes/class-contasimple-post-types.php:522
+msgid "Unmarked"
+msgstr "No marcada"
+
+#: admin/partials/contasimple-company-summary.php:90
+msgid "Update account settings"
+msgstr "Actualizar ajustes de la cuenta"
+
+#: admin/class-contasimple-admin.php:2662
+#: includes/class-contasimple-post-types.php:861
+msgid ""
+"User permissions in the selected company do not support synchronization with "
+"WooCommerce, please use user credentials with the appropriate permissions."
+msgstr ""
+"Los permisos del usuario en la empresa seleccionada no soportan la "
+"sincronización con WooCommerce, por favor, usa las credenciales de un "
+"usuario con los permisos adecuados."
+
+#: includes/class-contasimple-post-types.php:1039
+msgid "View in Contasimple"
+msgstr "Ver en Contasimple"
+
+#: includes/class-contasimple-post-types.php:100
+#: includes/class-contasimple-post-types.php:102
+msgid "View Invoice"
+msgstr "Ver factura"
+
+#: admin/partials/contasimple-wizard-display.php:194
+msgid ""
+"We can update your Contasimple settings with the current WooCommerce "
+"information."
+msgstr ""
+"El módulo puede actualizar tu configuración de Contasimple con los datos "
+"actuales de WooCommerce."
+
+#: includes/class-contasimple-post-types.php:728
+msgid ""
+"We detected one or more products without taxes in the order, which is "
+"usually due to a configuration error. Please check the invoice and correct "
+"it if it is a mistake, or if you really sell products without taxes you can "
+"deactivate this message in the Configuration section by changing the 'Show "
+"warnings' switch to 'No'"
+msgstr ""
+"Hemos detectado en el pedido uno o más productos sin tasas, lo que "
+"generalmente suele deberse a un error de configuración. Por favor, revisa la "
+"factura y corrígela si se trata de un error, o si realmente vendes productos "
+"sin tasas puedes desactivar este mensaje desde la pantalla de Configuración "
+"cambiando el interruptor de 'Mostrar aviso' a 'No'."
+
+#: includes/class-contasimple-wc-integration.php:45
+msgid "Welcome to Contasimple."
+msgstr "Bienvenido a Contasimple."
+
+#: includes/class-contasimple-post-types.php:796
+msgid "WooCommerce and Contasimple selected company NIF do not match"
+msgstr ""
+"El NIF de WooCommerce y la empresa seleccionada de Contasimple no coinciden"
+
+#: includes/class-contasimple.php:333
+msgid "WooCommerce not found!"
+msgstr "¡WooCommerce no encontrado!"
+
+#: admin/partials/contasimple-wizard-display.php:195
+msgid "Would you like to proceed?"
+msgstr "¿Deseas realizar la operación?"
+
+#: admin/partials/contasimple-company-summary.php:111
+#: admin/partials/contasimple-company-summary.php:142
+msgid "Yes"
+msgstr "Sí"
+
+#: admin/partials/contasimple-wizard-display.php:201
+msgid "Yes, Update company in Contasimple"
+msgstr "Sí, actualiza la empresa en Contasimple"
+
+#: admin/partials/contasimple-company-summary.php:32
+msgid "You are working with the following credentials:"
+msgstr "Estás trabajando con las siguientes credenciales:"
+
+#: admin/partials/contasimple-wizard-display.php:249
+msgid ""
+"You can create additional payment methods in Contasimple's website. If you "
+"install new WooCommerce payment modules after this configuration and want to "
+"use them, you will need to unlink your account and then run this "
+"configuration wizard again."
+msgstr ""
+"Puedes crear métodos de pago adicionales en la web de Contasimple. Si "
+"instalas nuevos módulos de pago en WooCommerce después de completar esta "
+"configuración y deseas usarlos, deberás desvincular tu cuenta y volver a "
+"ejecutar el asistente de configuración de nuevo."
+
+#: includes/class-contasimple-wc-integration.php:258
+msgid ""
+"You can customize the text for the NIF field during the checkout process. If "
+"you leave this field blank, Contasimple will display by default a text with "
+"the format \"NIF / Company identifier\" where the NIF part changes based on "
+"the fiscal region of the selected company from Contasimple, and this text "
+"will be translatable by Wordpress. If you choose to enter a custom text, "
+"this text will be displayed for all users, but won't use the translation "
+"system."
+msgstr ""
+"Puedes personalizar el texto que aparecerá en el campo NIF durante el "
+"proceso de compra. Si dejas este campo en blanco, Contasimple por defecto "
+"mostrará un texto con el formato \"NIF / Identificador de empresa\" donde la "
+"parte NIF tomará el valor dependiendo de la región fiscal de la empresa "
+"seleccionada de Contasimple, y este texto utilizará el sistema de "
+"traducciones de Wordpress. Si eliges usar un texto personalizado, este texto "
+"será mostrado en su lugar y no usará el sistema de traducciones."
+
+#: admin/class-contasimple-admin.php:179
+msgid ""
+"You do not have access to any company. You must create a company in "
+"Contasimple before linking the plugin for WooCommerce."
+msgstr ""
+"No tienes acceso a ninguna empresa. Debes crear una empresa en Contasimple "
+"antes de vincular el plugin para WooCommerce."
+
+#: admin/partials/contasimple-wizard-display.php:33
+msgid "You do not have any account linked to the plugin yet."
+msgstr "Todavía no tienes ninguna cuenta vinculada al plugin."
+
+#: admin/partials/contasimple-wizard-display.php:83
+msgid ""
+"You need a personal access key to start syncing with Contasimple. It can be "
+"found on your control panel in Contasimple under the 'Configuration > "
+"External Applications' section."
+msgstr ""
+"Necesitas una clave personal de acceso para empezar a sincronizar con "
+"Contasimple. Puedes encontrarla en tu panel de control en Contasimple en la "
+"sección 'Configuración > Aplicaciones Externas'."
+
+#: admin/class-contasimple-admin.php:2589
+msgid "Your account needs additional configuration. Please wait..."
+msgstr "Tu cuenta necesita configuración adicional. Por favor, espera..."
+
+#: admin/class-contasimple-admin.php:281
+msgid ""
+"Your API Key cannot be found in our system. Please, make sure it is correct. "
+"If you are still not registered, please register first in Contasimple.com"
+msgstr ""
+"Tu clave de API no se ha encontrado en nuestros sistemas. Por favor, "
+"asegúrate de que es correcta. Si no estás aún registrado, por favor "
+"regístrate primero en contasimple.com"
+
+#: admin/class-contasimple-admin.php:2566
+msgid "Your company preferences have been updated"
+msgstr "La información sobre la empresa se ha actualizado correctamente"
+
+#: admin/class-contasimple-admin.php:2668
+msgid ""
+"Your company selection could not be set. Please try again, and if the "
+"problem persists, contact us for technical support."
+msgstr ""
+"No se ha podido guardar correctamente tu selección de empresa. Por favor, "
+"inténtalo de nuevo y si el problema persiste, contacta con nosotros para "
+"soporte técnico."
+
+#: admin/class-contasimple-admin.php:2581
+#: admin/class-contasimple-admin.php:2635
+msgid ""
+"Your Contasimple account is not fully configured. Please login into "
+"Contasimple.com to complete the configuration process."
+msgstr ""
+"Tu cuenta en Contasimple no está correctamente configurada. Por favor, entra "
+"en Contasimple.com para completar el proceso de configuración de la región "
+"fiscal."
+
+#: admin/class-contasimple-admin.php:2736
+msgid "Your numbering series preferences have been updated"
+msgstr "Tus preferencias de series de numeración han sido actualizadas"
+
+#: admin/class-contasimple-admin.php:2687
+msgid "Your payment preferences have been updated"
+msgstr "Las preferencias de pago han sido guardadas"
+
+#: admin/partials/contasimple-wizard-display.php:191
+msgid ""
+"Your WooCommerce and Contasimple selected company identification numbers do "
+"not match."
+msgstr ""
+"Tus números de identificación fiscal (NIF/DNI) en WooCommerce y Contasimple "
+"no coinciden."
